@@ -16,4 +16,4 @@
 
 ### 🛠 **Parte do DMN**
 
-🔗 **Link para o modelo DMN**: [Clique aqui para visualizar]([https://modeler.camunda.io/share/6e082ba9-1760-497b-9026-a020f31c35e3](https://modeler.camunda.io/share/6e082ba9-1760-497b-9026-a020f31c35e3))
+🔗 **Link para o modelo DMN**: [Clique aqui para visualizar](https://modeler.camunda.io/share/6e082ba9-1760-497b-9026-a020f31c35e3)
