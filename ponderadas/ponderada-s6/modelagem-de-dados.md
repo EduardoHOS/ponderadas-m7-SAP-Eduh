@@ -1,7 +1,7 @@
 # Entrega da ponderada do grupo 1 
 por: Edu HOS
 
-```markdown
+
 # Diagrama Entidade-Relacionamento
 
 Abaixo está o diagrama entidade-relacionamento que contempla as principais entidades relacionadas aos dados mestres identificados no projeto.
@@ -10,7 +10,7 @@ Abaixo está o diagrama entidade-relacionamento que contempla as principais enti
 
 [Link para o arquivo](https://drive.google.com/file/d/1oAj_M9-C-gA04soC9Lj0CfuCL5wn6nyW/view?usp=sharing)
 
----
+```markdown
 
 ## XML Gerado
 
